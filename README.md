@@ -27,8 +27,8 @@ Filter and block unwanted content from YouTube™.
 * What is the difference between "Channel ID" and "Channel Name"  
   Channel names on YouTube are not unique and can be duplicated/changed  
   whereas Channel ID is a unique identification string that never changes.  
-  If you want to block a specific single channel the preferred method is using it's ID,  
-  If you want to block multiple channels sharing similar name use it's name.
+  If you want to block a specific single channel the preferred method is using its ID,  
+  If you want to block multiple channels sharing similar name use its name.
 
 * How can I get a channel's ID?  
   Channel ID looks like this: UCXXXXXXXXXXXXXXXX  
